@@ -13,8 +13,6 @@ Throughout my academic journey, I have focused on computational fluid mechanics 
 
 Currently, I am contributing to the field as a postdoctoral associate at Stony Brook University, where I continue to delve into the intersection of fluid mechanics, renewable energy, and artificial intelligence.
 
-Through this website, I aim to share insights from my research, discuss emerging trends in the field, and connect with fellow scholars and enthusiasts who share a passion for advancing the boundaries of engineering and sustainability.
-
 Thank you for visiting, and I invite you to explore further to learn more about my work and interests.
 
 
