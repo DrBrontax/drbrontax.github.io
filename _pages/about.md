@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I am a mechanical engineer with a passion for fluid mechanics, heat transfer, and thermodynamics. I earned my BSc and MSc in Mechanical Engineering from the University of Puerto Rico at Mayaguez, followed by a PhD in Mechanical Engineering from The University of Texas at Dallas.
+Welcome to my website! My name is Christian Santoni, I am a mechanical engineer with a passion for fluid mechanics, heat transfer, and thermodynamics. I earned my BSc and MSc in Mechanical Engineering from the University of Puerto Rico at Mayaguez, followed by a PhD in Mechanical Engineering from The University of Texas at Dallas.
 
 Throughout my academic journey, I have focused on computational fluid mechanics and its application in wind energy. My research endeavors have led me to explore innovative approaches to optimize wind farm performance, with a particular emphasis on the utilization of machine learning models for control co-design.
 
