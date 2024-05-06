@@ -21,7 +21,7 @@ repository               : "drbrontax.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot3.jpeg"
   name             : "Christian Santoni"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate at Stony Brook University"
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/christian-santoni-pr"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
