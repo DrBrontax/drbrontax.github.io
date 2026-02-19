@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Christian Santoni, PhD"
 title_separator          : "-"
 name                     : &name "Dr. Christian Santoni"
-description              : &description "Research Associate at Stony Brook University"
+description              : &description "Assistant Professor at North Carolina A&T State University"
 url                      : https://www.chrissantoni.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -24,11 +24,11 @@ author:
   avatar           : "headshot3.jpeg"
   name             : "Christian Santoni"
   pronouns         : # example: "she/her"  
-  bio              : "Research Associate at Stony Brook University"
-  location         : "Stony Brook, NY"
-  employer         : "Stony Brook University"
+  bio              : "Assistant Professor at North Carolina A&T State University"
+  location         : "Greensboro, NC"
+  employer         : "North Carolina A&T State University"
   uri              : # URL
-  email            : "christian.santoni@stonybrook.edu" 
+  email            : "cjsantoniortiz@ncat.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
