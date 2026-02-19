@@ -15,6 +15,6 @@ My research lies at the intersection of computational fluid dynamics (CFD), heat
 
 At NC A&T, I lead research efforts in computational modeling and teach courses in fluid mechanics and thermal sciences. My goal is to advance robust, physics-based tools that support the safe, efficient, and resilient operation of modern energy systems.
 
-Thank you for visiting. I invite you to explore the site to learn more about my research and ongoing work.
+Thank you for visiting.
 
 
